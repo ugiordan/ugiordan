@@ -8,6 +8,6 @@ Ph.D. in Software Reliability Engineering. Previously at Nokia Bell Labs. Eight 
 
 - Currently building: security and reliability tooling for Kubernetes operators
 - Languages: Go, Python, TypeScript, Java, C++
-- Interests: chaos engineering, DevSecOps, making AI do actual engineering work
+- Interests: chaos engineering, DevSecOps, software reliability, making AI do actual engineering work
 
 [ugiordan.github.io](https://ugiordan.github.io) | [LinkedIn](https://www.linkedin.com/in/ugogiordano)
