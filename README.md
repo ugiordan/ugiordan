@@ -7,7 +7,7 @@ I work across 20+ repositories, building Go libraries, admission webhooks, and C
 Ph.D. in Software Reliability Engineering. Previously at Nokia Bell Labs. Eight Red Hat certifications including RHCA and RHCE.
 
 - Currently building: security and reliability tooling for Kubernetes operators
-- Languages: Go, Python, TypeScript
+- Languages: Go, Python, TypeScript, Java, C++
 - Interests: chaos engineering, DevSecOps, making AI do actual engineering work
 
 [ugiordan.github.io](https://ugiordan.github.io) | [LinkedIn](https://www.linkedin.com/in/ugogiordano)
